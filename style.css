@@ -1,0 +1,33 @@
+/** @format */
+.divA {
+  width: 500px;
+  height: 500px;
+  background-color: #fddd0d;
+}
+
+.divB {
+  background-color: #00ddfa;
+  width: 50%;
+  height: 50%;
+}
+
+.paragrafoEstilizado {
+  color: #0d62fd;
+  background-color: #fd0d56;
+  font-size: 100px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-weight: bold;
+}
+
+.divD {
+  width: 50%;
+  height: 50vh;
+  background-color: rgb(250, 167, 0);
+}
+
+.divE {
+  width: 75vw;
+  height: 50%;
+  background-color: rgb(13, 253, 106);
+}
